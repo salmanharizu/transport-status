@@ -1,0 +1,10 @@
+@page
+{
+	size: A4;
+}
+
+#print-btn, #back-btn, #hide_details
+{
+	display: none;
+	visibility: none;
+}
